@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-claims><claim id="cl001" num="1"><claim-text>一种基于引力磁力判断物体运动平衡状态的装置，其特征在于，包括：</claim-text>
+
+<claim-text>（1）质量对象-电量对象转化模块。</claim-text>
+
+<claim-text>把系统中的各个包含一定质量的对象，转化为包含一定电量的对象，使得转化前的对象间的万有引力等于转化后的静电力。</claim-text>
+
+<claim-text>（2）引力电磁计算模块。</claim-text>
+
+<claim-text>对于所述的转化后得到的各个电量对象，基于麦克斯韦方程组或其它电磁规律，计算各个电量对象由于电量、速度、加速度所产生的电磁场。</claim-text>
+
+<claim-text>（3）运动附加效应分析模块。</claim-text>
+
+<claim-text>对于所述的转化后得到的各个电量对象，基于所述的电磁场，计算各个电量对象的受力结果，特别是由于速度和加速度引起的附加效应所对应的力。</claim-text>
+
+<claim-text>（4）引力磁力平衡条件分析模块。</claim-text>
+
+<claim-text>对于所述的转化后得到的各个电量对象，分析其由于磁力矩效应、电磁感应效应、磁化效应等效应中的某一种效应，所确定的平衡状态。该平衡状态也即为系统中原质量对象的平衡状态。</claim-text></claim>
+
+<claim id="cl002" num="2"><claim-text>一种基于引力磁力的方向指示装置，其特征在于，包括：</claim-text>
+
+<claim-text>（1）质量转子。</claim-text>
+
+<claim-text>质量转子具有一定的质量，并且有非常大的转动速度（第一种转动），及可能有非常大的速度，使其周围产生引力磁场1。该转子除了具有上述的第一种转动外，还可以在外力作用下自由产生第二种转动。</claim-text>
+
+<claim-text>（2）把所述的质量转子放置在星系中。所述的引力磁场1受星系的引力磁场所驱动，产生所述的第二种转动。当第二种转动由于平衡而停止时，所述的第一种转动与星系自身的转动同向、共面。以此指示方向。</claim-text></claim>
+
+<claim id="cl003" num="3"><claim-text>一种基于引力磁力的驱动或能量转化装置，其特征在于，包括：</claim-text>
+
+<claim-text>（1）质量转子。</claim-text>
+
+<claim-text>质量转子具有一定的质量，并且有非常大的速度或转动速度，使其周围产生引力磁场1。</claim-text>
+
+<claim-text>（2）受控制的高速微粒流。</claim-text>
+
+<claim-text>微粒流中的粒子具有一定的质量，并且有非常大的速度或转动速度，使其周围产生引力磁场2。</claim-text>
+
+<claim-text>（3）驱动控制器，可以为下述三种装置中的一种：</claim-text>
+
+<claim-text>a，引力磁力矩驱动控制器1。控制所述引力磁场1和引力磁场2在开始时相互垂直，或垂直分量不为零，由引力磁力矩驱使所述质量转子转动，到两引力磁场平行或夹角变小。接着控制高速微粒流的相角发生偏转，使引力磁场1和引力磁场2重新相互垂直，或垂直分量不为零，以重新驱使所述质量转子转动。不断重复上述过程，以驱使所述质量转子不断转动。</claim-text>
+
+<claim-text>b，引力磁力矩驱动控制器2。由外力做功驱动所述质量转子不断转动，从而使所述引力磁场1和引力磁场2之间的夹角，产生垂直-平行的的周期性变化。利用引力电磁感应，使所述微粒流获得更高的速度，以使外力输入的能量，由微粒流输出。</claim-text>
+
+<claim-text>c，引力电磁感应驱动控制器。所述引力磁场1和引力磁场2始终保持平行或以其它方式实现的强耦合。控制高速微粒流的流量、速度或加速度，使引力磁场2发生改变。利用引力电磁感应，使引力磁场1也即所述质量转子的转速发生改变。</claim-text></claim>
+
+
+</cn-claims>
+
+</cn-application-body>

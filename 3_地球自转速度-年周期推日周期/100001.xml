@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-claims><claim id="cl001" num="1"><claim-text>一种基于维度分析的运动参数计算装置，其特征在于，包括：</claim-text>
+
+<claim-text>（1）运动轨迹确定模块。</claim-text>
+
+<claim-text>系统中的一个或多个物体在作复杂轨迹的运动。其相关的各个维度之间符合能量均分、或作用量均分、或其它能量-频率关系量均分的约束，所述的量简称为维度均分量。系统中的一个轨迹的运动参数完全已知，称为已知参数轨迹；另一个轨迹包含未知的运动参数，称为未知参数轨迹。一个轨迹可能包含多个维度。</claim-text>
+
+<claim-text>（2）轨迹维度确定模块。</claim-text>
+
+<claim-text>对运动轨迹作傅里叶分解等三角函数分解；或作圆分解，例如本轮均轮模型分解。把分解得到的三角函数个数或圆的个数，作为该轨迹的维度数。</claim-text>
+
+<claim-text>（3）已知参数轨迹的维度确定模块。</claim-text>
+
+<claim-text>利用上述的“轨迹维度确定模块”，确定已知参数轨迹的维度数。并且根据该轨迹的运动参数，计算该轨迹所包含维度均分量，把所算得的维度均分量除于维度数，得到各个维度所包含的维度均分量。</claim-text>
+
+<claim-text>（4）未知参数轨迹的维度确定模块。</claim-text>
+
+<claim-text>利用上述的“轨迹维度确定模块”，确定未知参数轨迹的维度数。并把该维度数，乘以上述所得的各个维度所包含的维度均分量，算得未知轨迹的、总的维度均分量。</claim-text>
+
+<claim-text>（5）未知运动参数确定模块。</claim-text>
+
+<claim-text>根据上述所得的未知参数轨迹的维度均分量，算得该轨迹的未知运动参数。</claim-text></claim>
+
+
+</cn-claims>
+
+</cn-application-body>

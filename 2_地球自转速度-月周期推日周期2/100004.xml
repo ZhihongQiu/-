@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-abstract><p id="p0001" num="0001" Italic="0">本发明实施例提供一种处理高维运动系统中的非正交坐标系误差的装置，能够对高维运动系统分别用平直坐标系和三角函数坐标系进行建模，并用两个模型进行交叉验证，以减少由高维空间向低维空间投影时所产生的误差。本发明实施例旨在为专利申请号为202410836284.1的专利申请《一种预测物体运动状态的方法和装置》中的“地球自转周期的计算”具体实施例提供一种更加简单和直观的、基于传统物理的建模方法。</p>
+
+
+</cn-abstract>
+
+</cn-application-body>

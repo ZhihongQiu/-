@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd">
+<cn-application-body lang="zh" country="CN">
+  <cn-claims>
+    <claim id="c1_cl001" num="1">
+      <claim-text>一种预测物体运动状态的装置，其特征在于，包括：</claim-text>
+      <claim-text>矛盾检测模块。通过一致性、完全性、直线弯曲、同一变量同时取得多个不同值等特征，判断物体运动模型中存在高维向低维的映射；</claim-text>
+      <claim-text>高维量和低维量关系构建模块。通过平方等幂次方算符，或傅里叶级数等调和函数序列，或空间填充曲线序列，构建低维量和高维量之间的关系式；</claim-text>
+      <claim-text>映射干涉项计算模块。根据所述低维量和高维量之间的关系式的计算结果，与假设低维量和高维量是线性关系或其它同维度关系的计算结果作对比，把两者之间的差异作为映射干涉项；</claim-text>
+      <claim-text>干涉项对应的物理效应分析模块。找出所述干涉项对应的物理自由度，进而找出所述干涉项对应的物理效应或进行误差修正。</claim-text>
+    </claim>
+    <claim id="c1_cl002" num="2">
+      <claim-text>根据权利要求1所述的装置，所述的低维量和高维量之间的关系式，其特征在于，包括：</claim-text>
+      <claim-text>所述的低维量和高维量所在的维度坐标是平直的，且相互之间不完全垂直或不完全独立时，引入玻尔兹曼分布对关系式进行修正；或：</claim-text>
+      <claim-text>所述的低维量和高维量所在的维度坐标是周期函数的，且相互之间不完全垂直或不完全独立时，进而存在潮汐锁定或其它的周期相关的关系，引入量子化条件对关系式进行修正。</claim-text>
+    </claim>
+  </cn-claims>
+</cn-application-body>

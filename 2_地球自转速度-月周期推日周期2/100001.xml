@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-claims><claim id="cl001" num="1"><claim-text>一种处理高维运动系统中的非正交坐标系误差的装置，其特征在于，包括：</claim-text>
+
+<claim-text>（1）平直坐标系建模模块。</claim-text>
+
+<claim-text>基于平直但非正交的坐标系给高维系统建模，找出其中因高维空间向低维空间投影而产生的干涉项，干涉项表现为包含交叉乘积的项，作为余项。</claim-text>
+
+<claim-text>（2）三角函数坐标系建模模块。</claim-text>
+
+<claim-text>基于正交但非平直的三角函数坐标系给高维系统建模，找出其中无法建模的余项，余项表现为与坐标正交假设矛盾的、表示维度间约束的量。</claim-text>
+
+<claim-text>（3）交叉验证模块。</claim-text>
+
+<claim-text>找出上述两个模型变换时保持不变的参数，把一个模型中计算或测量获得的、关于余项的参数赋给另一个模型，以完善另一个模型的参数。</claim-text></claim>
+
+<claim id="cl002" num="2"><claim-text>根据权利要求1所述的装置，其特征在于，所述的干涉项，可以为包含两个速度的交叉乘积的项。假设系统中存在两个或更多个速度，速度的来源可以为下面的一种：</claim-text>
+
+<claim-text>（1）在系统中选择不同的坐标参考系，在不同的坐标参考系中测得同个子系统的速度，从而得到多个速度。</claim-text>
+
+<claim-text>（2）选择同个参考系，测得系统中多个不同的子系统的速度。</claim-text>
+
+<claim-text>（3）对存在加速度的子系统，测得子系统在加速前后的速度。</claim-text></claim>
+
+<claim id="cl003" num="3"><claim-text>根据权利要求1所述的装置，其特征在于，所述的两个模型变换时保持不变的参数，可以为作用量，由下面方式获得：</claim-text>
+
+<claim-text>（1）给上述的包含两个速度的交叉乘积的项增加时间参数。当两个速度为存在加速度的物体在加速前后的速度时，时间参数为加速过程中的时间段。</claim-text></claim>
+
+
+</cn-claims>
+
+</cn-application-body>

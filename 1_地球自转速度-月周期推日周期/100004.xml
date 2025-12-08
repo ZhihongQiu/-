@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd">
+<cn-application-body lang="zh" country="CN">
+  <cn-abstract>
+    <p id="p_zy_0001" Italic="0" num="0001">本发明实施例提供一种预测物体运动状态的方法和装置，能够利用高维模型向低维模型投影过程中产生的干涉项信息，对物体运动状态的预测进行误差修正或补全，以得到更准确和全面的预测结果。在具体实施例中给出了地球自转周期的计算方法，在发明人所知的范围内这是人们第一次通过理论计算得到地球的自转周期。</p>
+  </cn-abstract>
+</cn-application-body>

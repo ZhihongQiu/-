@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-abstract><p id="p0001" num="0001" Italic="0">本发明实施例提供一种基于维度分析的运动参数计算装置。在各个维度之间符合能量均分、或作用量均分、或其它能量-频率关系量均分的约束的系统中，根据各个轨迹所包含的维度的比值，算出它们之间的维度均分量的比值，进而算出系统中的未知运动参数。在具体实施例中，根据地球绕太阳公转的参数，再次计算了地球的自转周期。作为其逆计算，根据地球的自转参数，首次计算了地球公转的偏心率。</p>
+
+
+</cn-abstract>
+
+</cn-application-body>

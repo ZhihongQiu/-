@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd">
+<cn-application-body lang="zh" country="CN">
+	<cn-drawings>
+		<figure id="f0001" num="0001" figure-labels="图 1">
+			<img id="idf_0003" file="ft_3.jpg" img-format="jpg" inline="yes" wi="165" he="176.78"/>
+		</figure>
+		<figure id="f0002" num="0002" figure-labels="图 2">
+			<img id="idf_0005" file="ft_5.jpg" img-format="jpg" inline="yes" wi="165" he="156.97"/>
+		</figure>
+		<figure id="f0003" num="0003" figure-labels="图 3">
+			<img id="idf_0007" file="ft_7.jpg" img-format="jpg" inline="yes" wi="164.08" he="140.97"/>
+		</figure>
+		<figure id="f0004" num="0004" figure-labels="图 4">
+			<img id="idf_0001" file="ft_1.jpg" img-format="jpg" inline="yes" wi="165" he="153.67"/>
+		</figure>
+		<figure id="f0005" num="0005" figure-labels="图 5">
+			<img id="idf_0004" file="ft_4.jpg" img-format="jpg" inline="yes" wi="158.50" he="136.65"/>
+		</figure>
+		<figure id="f0006" num="0006" figure-labels="图 6">
+			<img id="idf_0006" file="ft_6.jpg" img-format="jpg" inline="yes" wi="165" he="110.24"/>
+		</figure>
+		<figure id="f0007" num="0007" figure-labels="图 7">
+			<img id="idf_0008" file="ft_8.jpg" img-format="jpg" inline="yes" wi="165" he="92.96"/>
+		</figure>
+		<figure id="f0008" num="0008" figure-labels="图 8">
+			<img id="idf_0002" file="ft_2.jpg" img-format="jpg" inline="yes" wi="165" he="117.35"/>
+		</figure>
+	</cn-drawings>
+</cn-application-body>
