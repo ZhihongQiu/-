@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-abstract><p id="p0001" num="0001" Italic="0">本发明实施例提供一种基于相关性判断运动物体的平衡状态的装置。一是对于包含引力磁力的系统，分析非平衡状态时系统中的各引力磁场的相关性，从而完整计算出一个对象所受的引力磁力，其结果往往大于原来的预估。基于相关方法解释了星系整体在引力作用下完成30周的旋转时，其运动平面在引力磁力作用下已旋转约1周，然后停留在平衡位置，从而形成盘状。二是对于星系旋转曲线，由于尚不明确的相关性，使得各天体集中在银臂上，银臂内的天体密度、引力场强度要比原星盘模型预测的要大，从而解释星系旋转曲线的成因。</p>
+
+
+</cn-abstract>
+
+</cn-application-body>

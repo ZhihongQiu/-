@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-abstract><p id="p0001" num="0001" Italic="0">本发明实施例提供一种基于轨道翻转模型处理引力磁力加速度数据的方法和装置。分析绕地球极地轨道运行的卫星，在地球自转所产生的引力磁场的作用下可能发生的两种运动形式，即业界已知的轨道进动（兰斯-蒂林进动）和新提出的轨道翻转。分析造成上述两种运行形式差异的原因，并参考引力探测器B（GP-B）实际获得的数据，分析对于极地轨道卫星，实际发生的是哪种情况。</p>
+
+
+</cn-abstract>
+
+</cn-application-body>

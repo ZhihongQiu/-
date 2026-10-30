@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cn-application-body SYSTEM "/dtdandxsl/cn-application-body-20080416.dtd"[]>
+<?xml-stylesheet type="text/xsl" href="/dtdandxsl/showxml.xsl"?>
+<cn-application-body lang="zh" country="CN">
+<cn-claims><claim id="cl001" num="1"><claim-text>一种基于引力磁场的相关性，判断运动物体由非平衡状态向平衡状态的收敛速度的装置，其特征在于，包括：</claim-text>
+
+<claim-text>（1）、包含引力和引力磁力的系统的平衡状态判断模块。</claim-text>
+
+<claim-text>系统中包含公转运动，每个公转运动对应一个引力和一个引力磁力组成的合力，作为圆周运动的向心力。</claim-text>
+
+<claim-text>（2）、非平衡状态时的引力磁场相关性判断模块。</claim-text>
+
+<claim-text>假设系统中的某个公转平面由于倾斜而偏离平衡位置，该公转对应的引力磁场与系统中的其它公转对应的引力磁场有引力磁力的相互作用。根据夹角或其它相关性，找出所有与该倾斜公转有引力磁力作用的其它公转，并计算出引力磁力或引力磁力矩的大小。</claim-text>
+
+<claim-text>（3）、非平衡状态向平衡状态的收敛速度判断模块。</claim-text>
+
+<claim-text>根据上一步计算得到的引力磁力或引力磁力矩的大小，判断出该倾斜公转向平衡状态的收敛速度。</claim-text></claim>
+
+<claim id="cl002" num="2"><claim-text>一种基于周围临近天体密度，计算星系旋转曲线或星体旋转速度的方法，其特征在于，包括：</claim-text>
+
+<claim-text>（1）、把星系建模成均匀圆盘模型或指数盘模型，按照万有引力等方法，计算星体所受到的向心力；</claim-text>
+
+<claim-text>（2）、根据实际观察到的星体聚集情况，计算星体实际占有面积或体积占星盘面积或体积的比例，进而计算星体聚集区域的实际密度与上述圆盘模型或指数盘模型密度的比例；</claim-text>
+
+<claim-text>（3）、按照天体所受引力与周围临近天体密度成正比的估算方法，结合第一步算得的引力值和第二步算得的密度比，估算星体实际所受到的引力值，进而计算星体旋转速度或星系旋转曲线。</claim-text></claim>
+
+
+</cn-claims>
+
+</cn-application-body>
